@@ -16,5 +16,5 @@ Here, we provide the script to reproduce our results in the paper for CIFAR100 d
 
 
 ### Acknowledgement
-This repository is based on [SAM] (https://github.com/davda54/sam) and [OT-MDR](https://github.com/anh-ntv/OT_MDR)
+This repository is based on [SAM](https://github.com/davda54/sam) and [OT-MDR](https://github.com/anh-ntv/OT_MDR)
 
